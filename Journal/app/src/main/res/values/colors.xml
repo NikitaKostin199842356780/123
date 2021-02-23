@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#49B4B4</color>
+    <color name="colorPrimaryDark">#23584F</color>
+    <color name="colorAccent">#EBC7D5</color>
+    <color name="primaryVariant">#98EBDF</color>
+    <color name="onPrimary">#13836A</color>
+    <color name="secondary">#6DDFF1</color>
+    <color name="secondaryVariant">#4EC6DA</color>
+    <color name="onSecondary">#1E7896</color>
+    <color name="surface">#F3C7D8</color>
+    <color name="onSurface">#C57496</color>
+    <color name="error">#940A41</color>
+    <color name="onError">#6B0B30</color>
+    <color name="buttonNormal">#57EBD3</color>
+    <color name="controlActivated">#8CA39E</color>
+    <color name="controlHighlight">#707979</color>
+    <color name="controlNormal">#93ADAD</color>
+    <color name="backgroundFloating">#A89EA2</color>
+</resources>
